@@ -1,2 +1,3 @@
-# 2214-Lab4
+# Comparator
+
 TreeSet and Comparator lab
