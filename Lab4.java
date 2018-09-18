@@ -11,7 +11,7 @@ import java.io.*;
  *
  * @author Alex Santos-Urbina
  */
-public class Lab4 {
+public class comparator {
 
     /**
      * @param args the command line arguments
