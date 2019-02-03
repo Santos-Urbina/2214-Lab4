@@ -1,3 +1,3 @@
 # Comparator
 
-TreeSet and Comparator lab
+TreeSet and Comparator program
